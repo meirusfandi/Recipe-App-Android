@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Profile Apps</string>
+    <string name="profile">Profile</string>
+    <string name="about">Mobile Developer | Website Developer | Trainer</string>
+    <string name="name">Mei Rusfandi</string>
+    <string name="_9k">9K</string>
+    <string name="_600k">600K</string>
+    <string name="_200k">200K</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="tags">TAGS</string>
+    <string name="fullstack">Fullstack</string>
+    <string name="website">Website</string>
+    <string name="mobile">Mobile</string>
+    <string name="collections">Collections</string>
+    <string name="foods">Foods</string>
+    <string name="latest_posts">Latest Post</string>
+</resources>
